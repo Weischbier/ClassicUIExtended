@@ -1,0 +1,13 @@
+{
+    "Lua.workspace.library": [
+      "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/FrameXML",
+      "C:/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns"
+    ],
+    "Lua.runtime.version": "Lua 5.1",
+    "Lua.diagnostics.globals": [
+      "CreateFrame",
+      "SLASH_RELOAD1",
+      "SlashCmdList",
+      "DEFAULT_CHAT_FRAME"
+    ]
+  }  
