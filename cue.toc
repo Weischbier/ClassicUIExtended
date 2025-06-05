@@ -1,4 +1,4 @@
-## Interface: 11000
+## Interface: 11302
 ## Title: CUE - Classic UI Extended
 ## Notes: An extension to the Classic UI for World of Warcraft.
 ## Author: TheSaltySeagull
